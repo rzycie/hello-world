@@ -1,3 +1,3 @@
 # hello-world
 my first GitHub repo ever
-*Will you join
+*Will you join*
