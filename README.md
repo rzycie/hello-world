@@ -1,6 +1,6 @@
 # hello-world
 my first GitHub repo ever
 ## What for?
-*Will you join?*
+*I am already there, will you join?*
 
-`I will`
+-`And I will not`
